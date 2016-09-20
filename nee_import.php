@@ -19,6 +19,7 @@ define( 'NEEIMPORT_VERSION', '1.0.0' );
 define( 'NEEIMPORT__MINIMUM_WP_VERSION', '3.2' );
 define( 'NEEIMPORT__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'NEEIMPORT__SLUG', 'nee_imp' );
+define( 'NEEIMPORT__URI',plugins_url()."/nee_import/");
 
 
 
